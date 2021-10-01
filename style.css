@@ -91,7 +91,8 @@ img {
     display: flex;
 }
 .content-header:first-of-type {
-    padding: 40px 20px 0 144.04px;
+    padding-top: 40px;
+    justify-content: center;
 }
 .content-title {
     color: #000000;
