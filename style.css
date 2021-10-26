@@ -89,10 +89,10 @@ img {
 .content-header {
     padding: 0px 20px 6px 20px;
     display: flex;
-    justify-content: center;
 }
 .content-header:first-of-type {
     padding-top: 40px;
+    justify-content: center;
 }
 .content-title {
     color: #000000;
